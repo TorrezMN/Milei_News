@@ -81,7 +81,7 @@ feeds={
 "Autos":"https://www.ambito.com/rss/pages/edicion-impresa.xml",
 "EdiciónImpresa":"https://www.ambito.com/rss/pages/municipios.xml",
 "Municipios":"https://www.ambito.com/rss/pages/novedades-fiscales.xml",
-"NovedadesFiscales	":"https://www.ambito.com/rss/pages/novedades-fiscales.xml",,
+"NovedadesFiscales	":"https://www.ambito.com/rss/pages/novedades-fiscales.xml",
 },
 "Perfil":{
 "ÚltimoMomento":"https://www.perfil.com/feed",
@@ -255,7 +255,7 @@ feeds={
 "Diario" :"https://www.elterritorio.com.ar/rss/diario/ ", 
 "Edición de hoy  " :"https://www.elterritorio.com.ar/rss/edicion-de-hoy/  ", 
 "Club El Territorio  " :"https://www.elterritorio.com.ar/rss/club-el-territorio/  ", 
-"Edición Electrónica Flip Page " :"https://www.elterritorio.com.ar/rss/edicion-electronica-flip-page/" :"https://fileselterritorio.b-cdn.net/eddigital/EdDigLogin.aspx ", 
+"Edición Electrónica Flip Page " :"https://www.elterritorio.com.ar/rss/edicion-electronica-flip-page/",
 "Edición Impresa  " :"https://www.elterritorio.com.ar/rss/edicion-impresa/ ", 
 "Deportes " :"https://www.elterritorio.com.ar/rss/edicion-impresa-deportes/ ",  
 "Opinión  " :"https://www.elterritorio.com.ar/rss/edicion-impresa-opinion/ ", 
