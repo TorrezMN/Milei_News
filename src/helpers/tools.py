@@ -15,10 +15,10 @@ def wait_random_time():
     time.sleep(random_time)
 
 
-def get_file_tree(d,s):
+def get_file_tree(d,s,origin):
     today = datetime.date.today()
     date_str = today.strftime("%Y-%m-%d")
-    output_str = f"./data/{d}/{s}/" + date_str + ".json"
+    output_str = f"./data/{origin}/{d}/{s}/" + date_str + ".json"
     return(output_str)
 
 

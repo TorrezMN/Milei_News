@@ -1,0 +1,26 @@
+global_feeds = {
+"North America ":{ 
+    "The New York Times" : "https://www.nytimes.com/rss", 
+    "The Washington Post" : "https://www.washingtonpost.com/discussions/2018/10/12/washington-post-rss-feeds/",
+    "The Wall Street Journal" : "https://www.wsj.com/news/rss-news-and-feeds",
+    "Los Angeles Times" : "https://www.latimes.com/ ",  
+    "The Toronto Star" : "https://www.thestar.com/  ", 
+    "The Globe and Mail" : "https://www.theglobeandmail.com/ ", 
+    "Le Devoir" : "https://www.ledevoir.com/  ",
+    "La Presse" : "https://www.lapresse.ca/",  
+    "El Universal" : "https://www.eluniversal.com.mx/  ",
+    "Reforma" : "https://www.reforma.com/  ",  
+},  
+'Europe ':{ 
+    "The Guardian" : "https://www.theguardian.com/help/feeds ", 
+    "The Times" : "https://www.times-series.co.uk/rss/ ",
+    "The Financial Times" : "https://rss.feedspot.com/financial_times_rss_feeds/  ", 
+    "Le Monde" : "https://www.lemonde.fr/en/rss/article/2022/06/23/the-rss-feeds-of-monde-fr_5987755_165.html",
+    "Le Figaro" : "https://www.lefigaro.fr/",
+    "Der Spiegel" : "https://www.spiegel.de/  ",
+    "Süddeutsche Zeitung" : "https://www.sueddeutsche.de/service/updates-mit-rss-uebersicht-aller-rss-feeds-fuer-sz-de-sz-magazin-und-jetzt-de-1.393950", 
+    "Frankfurter Allgemeine Zeitung" : "https://www.faz.net/aktuell/  ", 
+    "El País" : "https://elpais.com/ ",
+    "La Repubblica" : "https://www.repubblica.it/static/servizi/rss/index.html ", 
+  },
+ }

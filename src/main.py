@@ -16,7 +16,7 @@ def build_row(name,section,i):
             'tags':i.get('tags',''),
             'credit':i.get('credit',''),     
             }
-    my_file = get_file_tree(name,section)
+    my_file = get_file_tree(name,section,'Argentina')
     print('Adding one.')
     append_data(str(my_file),data)
 
