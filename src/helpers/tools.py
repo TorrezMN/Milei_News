@@ -1,26 +1,50 @@
-import json
-
-
+import time
+import random
 import os
+import json
+import datetime
 
-def get_or_create_file(file_path, content=""):
-    # Split the file path into its components
-    components = file_path.split("/")
 
-    # Create the directories if they don't exist
-    for component in components[:-1]:
-        if not os.path.exists(component):
-            os.makedirs(component)
 
-    # Create the file if it doesn't exist
-    if not os.path.exists(file_path):
-        with open(file_path, "w") as f:
-            f.write(content)
+def wait_random_time():
+    # Generate a random number between 2 and 5
+    random_time = random.randrange(2, 6)
+    print(f'Waiting {random_time} seconds.')
 
-    return open(file_path, "r+")
+    # Wait for the random number of seconds
+    time.sleep(random_time)
+
+
+def get_file_tree(d,s):
+    today = datetime.date.today()
+    date_str = today.strftime("%Y-%m-%d")
+    output_str = f"./data/{d}/{s}/" + date_str + ".json"
+    return(output_str)
+
+
+
+def create_path(file_path):
+    if os.path.exists(file_path):
+        # Path already exists, so do nothing
+        return None
+
+    # Create the parent directory if it doesn't exist
+    parent_dir = os.path.dirname(file_path)
+    if not os.path.exists(parent_dir):
+        os.makedirs(parent_dir)
+
+    # Create the file itself
+    with open(file_path, "w"):
+        pass
+
+    # Return the file path
+    return file_path
+
 
 
 def append_data(file, data):
+    f_path = create_path(file)
+
     with open(file, 'r+') as f:
         try:
             # Load existing JSON data
@@ -38,3 +62,6 @@ def append_data(file, data):
         # Overwrite the file with the updated data
         json.dump(existing_data, f, indent=4)
 
+def pprint_data(data):
+    """Pretty prints a dictionary."""
+    print(json.dumps(data, sort_keys=True, indent=4))
