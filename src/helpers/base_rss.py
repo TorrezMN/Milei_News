@@ -64,7 +64,6 @@ feeds={
 "Plástica":"https://www.pagina12.com.ar/rss/secciones/plastica/notas",
 "CartasdeLectores":"https://www.pagina12.com.ar/rss/secciones/cartas-de-lectores/notas",
 },
-"Infobae":"https://www.infobae.com/feeds/rss/",
 "AmbitoFinanciero":{
 "Portada":"https://www.ambito.com/rss/pages/ultimas-noticias.xml",
 "Últimasnoticias":"https://www.ambito.com/rss/pages/economia.xml",
