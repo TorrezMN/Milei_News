@@ -30,5 +30,21 @@
             }
         ],
         "credit": ""
+    },
+    {
+        "news_paper": "Clarin",
+        "section": "SuplementoTecnolog\u00eda",
+        "title": "As\u00ed est\u00e1 el gabinete de Javier Milei: uno por uno, todos los nombres",
+        "link": "https://www.lanacion.com.ar/politica/asi-esta-el-gabinete-de-javier-milei-uno-por-uno-todos-los-nombres-nid23112023/",
+        "summary": "Mientras el presidente electo define el futuro de su gabinete, las bajas de Ocampo y P\u00edparo obligaron a los equipos t\u00e9cnicos a trabajar a contrarreloj; el dirigente libertario debi\u00f3 postergar su viaje a los Estados Unidos",
+        "published": "Fri, 24 Nov 2023 17:46:32 +0000",
+        "tags": [
+            {
+                "term": "Pol\u00edtica",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "credit": ""
     }
 ]

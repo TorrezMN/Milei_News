@@ -30,5 +30,21 @@
             }
         ],
         "credit": ""
+    },
+    {
+        "news_paper": "BigBangNews",
+        "section": "Pol\u00edtica",
+        "title": "\"No es negociable\": Milei confirm\u00f3 a los titulares de Anses e YPF y ratific\u00f3 su plan de cerrar el BCRA",
+        "link": "https://www.bigbangnews.com/politica/no-negociable-milei-confirmo-titulares-anses-e-ypf-ratifico-su-plan-cerrar-bcra-n87160",
+        "summary": "<img src=\"https://statics.bigbangnews.com/2023/11/crop/6560cfa6f1980__993x610.webp\" /><p>El presidente electo confirm\u00f3 a Osvaldo Giordano en Anses y a Horacio Mar\u00edn en YPF.</p>",
+        "published": "Fri, 24 Nov 2023 13:30:00 -0300",
+        "tags": [
+            {
+                "term": "Pol\u00edtica",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "credit": ""
     }
 ]
