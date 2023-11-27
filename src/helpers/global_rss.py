@@ -42,44 +42,97 @@ global_feeds={
 
 "TheWashingtonPost":
 {
+"Politics":"http://feeds.washingtonpost.com/rss/politics?itid=lk_inline_manual_2",
+"TheFactChecker":"http://feeds.washingtonpost.com/rss/rss_fact-checker?itid=lk_inline_manual_4",
+"TheFix":"http://feeds.washingtonpost.com/rss/rss_the-fix?itid=lk_inline_manual_5",
+"Opinions":"https://www.washingtonpost.com/arcio/rss/category/opinions/?itid=lk_inline_manual_7",
+"AlexandraPetri":"http://feeds.washingtonpost.com/rss/rss_compost?itid=lk_inline_manual_8",
+"ErikWemple":"http://feeds.washingtonpost.com/rss/rss_erik-wemple?itid=lk_inline_manual_9",
+"GregSargent":"http://feeds.washingtonpost.com/rss/rss_plum-line?itid=lk_inline_manual_10",
+"CatherineRampell":"http://feeds.washingtonpost.com/rss/rss_rampage?itid=lk_inline_manual_11",
+"JenniferRubin":"http://feeds.washingtonpost.com/rss/rss_right-turn?itid=lk_inline_manual_12",
+"Local":"http://feeds.washingtonpost.com/rss/local?itid=lk_inline_manual_14",
+"TheAnswerSheet":"https://www.washingtonpost.com/blogs/answer-sheet/feed/?itid=lk_inline_manual_15",
+"CapitalWeatherGang":"http://feeds.washingtonpost.com/rss/rss_capital-weather-gang?itid=lk_inline_manual_16",
+"InspiredLife":"http://feeds.washingtonpost.com/rss/national/inspired-life?itid=lk_inline_manual_17",
+"Retropolis":"https://www.washingtonpost.com/news/retropolis/?outputType=rss&amp;itid=lk_inline_manual_18",
+"Sports":"http://feeds.washingtonpost.com/rss/sports?itid=lk_inline_manual_20",
+"BlogsandColumns":"http://feeds.washingtonpost.com/rss/sports/blogs-columns?itid=lk_inline_manual_21",
+"HighSchoolSports":"http://feeds.washingtonpost.com/rss/rss_recruiting-insider?itid=lk_inline_manual_22",
+"DCSportsBog":"http://feeds.washingtonpost.com/rss/rss_dc-sports-bog?itid=lk_inline_manual_23",
+"MarylandTerrapins":"http://feeds.washingtonpost.com/rss/rss_terrapins-insider?itid=lk_inline_manual_24",
+"Soccer":"http://feeds.washingtonpost.com/rss/rss_soccer-insider?itid=lk_inline_manual_25",
+"WashingtonCommanders":"http://feeds.washingtonpost.com/rss/rss_football-insider?itid=lk_inline_manual_26",
+"WashingtonCapitals":"http://feeds.washingtonpost.com/rss/rss_capitals-insider?itid=lk_inline_manual_27",
+"WashingtonNationals":"http://feeds.washingtonpost.com/rss/rss_nationals-journal?itid=lk_inline_manual_28",
+"WashingtonWizards":"http://feeds.washingtonpost.com/rss/rss_wizards-insider?itid=lk_inline_manual_29",
+"Technology":"http://feeds.washingtonpost.com/rss/business/technology?itid=lk_inline_manual_31",
+"National":"http://feeds.washingtonpost.com/rss/national?itid=lk_inline_manual_32",
+"Innovations":"http://feeds.washingtonpost.com/rss/rss_innovations?itid=lk_inline_manual_33",
+"MorningMix":"http://feeds.washingtonpost.com/rss/rss_morning-mix?itid=lk_inline_manual_34",
+"World":"http://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36",
+"Business":"http://feeds.washingtonpost.com/rss/business?itid=lk_inline_manual_37",
+"Lifestyle":"http://feeds.washingtonpost.com/rss/lifestyle?itid=lk_inline_manual_38",
+"Entertainment":"http://feeds.washingtonpost.com/rss/entertainment?itid=lk_inline_manual_39",
+"Comics":"http://feeds.washingtonpost.com/rss/rss_comic-riffs?itid=lk_inline_manual_40",
+"GoingOutGuide":"http://feeds.washingtonpost.com/rss/rss_going-out-gurus?itid=lk_inline_manual_41",
+},
+
+"TheWallStreetJournal":{
+"Opinion":"https://feeds.a.dj.com/rss/RSSOpinion.xml",
+"WorldNews":"https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+"U.S.Business":"https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+"MarketsNews":"https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+"Technology:What'sNews":"https://feeds.a.dj.com/rss/RSSWSJD.xml",
+"Lifestyle":"https://feeds.a.dj.com/rss/RSSLifestyle.xml",
+},
 
 
-"Politics":     "http://feeds.washingtonpost.com/rss/politics?itid=lk_inline_manual_2"    ,
-"TheFactChecker":     "http://feeds.washingtonpost.com/rss/rss_fact-checker?itid=lk_inline_manual_4"    ,
-"TheFix":     "http://feeds.washingtonpost.com/rss/rss_the-fix?itid=lk_inline_manual_5"    ,
-"Opinions":     "https://www.washingtonpost.com/arcio/rss/category/opinions/?itid=lk_inline_manual_7"    ,
-"AlexandraPetri":     "http://feeds.washingtonpost.com/rss/rss_compost?itid=lk_inline_manual_8"    ,
-"ErikWemple":     "http://feeds.washingtonpost.com/rss/rss_erik-wemple?itid=lk_inline_manual_9"    ,
-"GregSargent":     "http://feeds.washingtonpost.com/rss/rss_plum-line?itid=lk_inline_manual_10"    ,
-"CatherineRampell":     "http://feeds.washingtonpost.com/rss/rss_rampage?itid=lk_inline_manual_11"    ,
-"JenniferRubin":     "http://feeds.washingtonpost.com/rss/rss_right-turn?itid=lk_inline_manual_12"    ,
-"Local":     "http://feeds.washingtonpost.com/rss/local?itid=lk_inline_manual_14"    ,
-"TheAnswerSheet":     "https://www.washingtonpost.com/blogs/answer-sheet/feed/?itid=lk_inline_manual_15"    ,
-"CapitalWeatherGang":     "http://feeds.washingtonpost.com/rss/rss_capital-weather-gang?itid=lk_inline_manual_16"    ,
-"InspiredLife":     "http://feeds.washingtonpost.com/rss/national/inspired-life?itid=lk_inline_manual_17"    ,
-"Retropolis":     "https://www.washingtonpost.com/news/retropolis/?outputType=rss&amp;itid=lk_inline_manual_18"    ,
-"Sports":     "http://feeds.washingtonpost.com/rss/sports?itid=lk_inline_manual_20"    ,
-"BlogsandColumns":     "http://feeds.washingtonpost.com/rss/sports/blogs-columns?itid=lk_inline_manual_21"    ,
-"HighSchoolSports":     "http://feeds.washingtonpost.com/rss/rss_recruiting-insider?itid=lk_inline_manual_22"    ,
-"DCSportsBog":     "http://feeds.washingtonpost.com/rss/rss_dc-sports-bog?itid=lk_inline_manual_23"    ,
-"MarylandTerrapins":     "http://feeds.washingtonpost.com/rss/rss_terrapins-insider?itid=lk_inline_manual_24"    ,
-"Soccer":     "http://feeds.washingtonpost.com/rss/rss_soccer-insider?itid=lk_inline_manual_25"    ,
-"WashingtonCommanders":     "http://feeds.washingtonpost.com/rss/rss_football-insider?itid=lk_inline_manual_26"    ,
-"WashingtonCapitals":     "http://feeds.washingtonpost.com/rss/rss_capitals-insider?itid=lk_inline_manual_27"    ,
-"WashingtonNationals":     "http://feeds.washingtonpost.com/rss/rss_nationals-journal?itid=lk_inline_manual_28"    ,
-"WashingtonWizards":     "http://feeds.washingtonpost.com/rss/rss_wizards-insider?itid=lk_inline_manual_29"    ,
-"Technology":     "http://feeds.washingtonpost.com/rss/business/technology?itid=lk_inline_manual_31"    ,
-"National":     "http://feeds.washingtonpost.com/rss/national?itid=lk_inline_manual_32"    ,
-"Innovations":     "http://feeds.washingtonpost.com/rss/rss_innovations?itid=lk_inline_manual_33"    ,
-"MorningMix":     "http://feeds.washingtonpost.com/rss/rss_morning-mix?itid=lk_inline_manual_34"    ,
-"World":     "http://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36"    ,
-"Business":     "http://feeds.washingtonpost.com/rss/business?itid=lk_inline_manual_37"    ,
-"Lifestyle":     "http://feeds.washingtonpost.com/rss/lifestyle?itid=lk_inline_manual_38"    ,
-"Entertainment":     "http://feeds.washingtonpost.com/rss/entertainment?itid=lk_inline_manual_39"    ,
-"Comics":     "http://feeds.washingtonpost.com/rss/rss_comic-riffs?itid=lk_inline_manual_40"    ,
-"GoingOutGuide":     "http://feeds.washingtonpost.com/rss/rss_going-out-gurus?itid=lk_inline_manual_41"    ,
-
-
+"LosAngelesTimes":
+{
+"BUSINESS":"https://www.latimes.com/business/rss2.0.xml",
+"Technology":"https://www.latimes.com/business/technology/rss2.0.xml",
+"RealEstate":"https://www.latimes.com/business/real-estate/rss2.0.xml",
+"Autos":"https://www.latimes.com/business/autos/rss2.0.xml",
+"CALIFORNIA":"https://www.latimes.com/california/rss2.0.xml",
+"OrangeCounty":"https://www.latimes.com/california/orange-county/rss2.0.xml",
+"CLIMATE&amp;ENVIRONMENT":"https://www.latimes.com/environment/rss2.0.xml",
+"ENTERTAINMENT&amp;ARTS":"https://www.latimes.com/entertainment-arts/rss2.0.xml",
+"Movies":"https://www.latimes.com/entertainment-arts/movies/rss2.0.xml",
+"TV":"https://www.latimes.com/entertainment-arts/tv/rss2.0.xml",
+"Music":"https://www.latimes.com/entertainment-arts/music/rss2.0.xml",
+"CompanyTown":"https://www.latimes.com/entertainment-arts/business/rss2.0.xml",
+"Books":"https://www.latimes.com/entertainment-arts/books/rss2.0.xml",
+"Awards":"https://www.latimes.com/entertainment-arts/awards/rss2.0.xml",
+"FOOD":"https://www.latimes.com/food/rss2.0.xml",
+"Deportes":"https://www.latimes.com/espanol/deportes/rss2.0.xml",
+"EEUU":"https://www.latimes.com/espanol/eeuu/rss2.0.xml",
+"Entretenimiento":"https://www.latimes.com/espanol/entretenimiento/rss2.0.xml",
+"Internacional":"https://www.latimes.com/espanol/internacional/rss2.0.xml",
+"México":"https://www.latimes.com/espanol/mexico/rss2.0.xml",
+"Política":"https://www.latimes.com/espanol/politica/rss2.0.xml",
+"VidayEstilo":"https://www.latimes.com/espanol/vida-y-estilo/rss2.0.xml",
+"Sabor":"https://www.latimes.com/espanol/comida/rss2.0.xml",
+"LIFESTYLE":"https://www.latimes.com/lifestyle/rss2.0.xml",
+"OBITUARIES":"https://www.latimes.com/obituaries/rss2.0.xml",
+"OPINION":"https://www.latimes.com/opinion/rss2.0.xml",
+"POLITICS":"https://www.latimes.com/politics/rss2.0.xml",
+"SCIENCE":"https://www.latimes.com/science/rss2.0.xml",
+"SPORTS":"https://www.latimes.com/sports/rss2.0.xml",
+"Lakers":"https://www.latimes.com/sports/lakers/rss2.0.xml",
+"Dodgers":"https://www.latimes.com/sports/dodgers/rss2.0.xml",
+"Clippers":"https://www.latimes.com/sports/clippers/rss2.0.xml",
+"Rams":"https://www.latimes.com/sports/rams/rss2.0.xml",
+"USC":"https://www.latimes.com/sports/usc/rss2.0.xml",
+"UCLA":"https://www.latimes.com/sports/ucla/rss2.0.xml",
+"Angels":"https://www.latimes.com/sports/angels/rss2.0.xml",
+"Chargers":"https://www.latimes.com/sports/chargers/rss2.0.xml",
+"BillPlaschke":"https://www.latimes.com/newsletters/sports/lanews-bill-plaschke-20130507-staff.html.rss",
+"HighSchool":"https://www.latimes.com/sports/highschool/rss2.0.xml",
+"Hockey":"https://www.latimes.com/sports/hockey/rss2.0.xml",
+"Soccer":"https://www.latimes.com/sports/soccer/rss2.0.xml",
+"TRAVEL":"https://www.latimes.com/travel/rss2.0.xml",
+"WORLD_AND_NATION":"https://www.latimes.com/world-nation/rss2.0.xml",
 },
 
 
@@ -92,35 +145,7 @@ global_feeds={
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-"TheWallStreetJournal":"https://www.wsj.com/news/rss-news-and-feeds",
-"LosAngelesTimes":"https://www.latimes.com/",
+===============================
 "TheTorontoStar":"https://www.thestar.com/",
 "TheGlobeandMail":"https://www.theglobeandmail.com/",
 "LeDevoir":"https://www.ledevoir.com/",
