@@ -30,5 +30,21 @@
             }
         ],
         "credit": "Archivo"
+    },
+    {
+        "news_paper": "LaNacion",
+        "section": "UltimasNoticias",
+        "title": "Otro problema para Milei: el Gobierno busca trasladarle un costo millonario del juicio por YPF",
+        "link": "https://www.lanacion.com.ar/economia/otro-problema-para-milei-el-gobierno-busca-trasladarle-un-costo-millonario-del-juicio-de-ypf-nid27112023/",
+        "summary": "El estudio de abogados que representa al pa\u00eds pidi\u00f3 pasar un pago que reclaman los demandantes al 10 de enero pr\u00f3ximo, una vez que asuma el pr\u00f3ximo presidente; deb\u00edan pagar el 5 de diciembre",
+        "published": "Tue, 28 Nov 2023 00:36:34 +0000",
+        "tags": [
+            {
+                "term": "Econom\u00eda",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "credit": "Luis Robayo"
     }
 ]

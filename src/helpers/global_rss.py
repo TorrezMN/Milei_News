@@ -2,7 +2,6 @@ global_feeds={
 "NorthAmerica":{
 "TheNewYorkTimes":
 {
-"NYTimes.comHomePage(U.S.)":"https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
 "World":"https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
 "Africa":"https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml",
 "Americas":"https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml",
@@ -39,7 +38,6 @@ global_feeds={
 "Health":"https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
 "WellBlog":"https://rss.nytimes.com/services/xml/rss/nyt/Well.xml",
 },
-
 "TheWashingtonPost":
 {
 "Politics":"http://feeds.washingtonpost.com/rss/politics?itid=lk_inline_manual_2",
@@ -77,7 +75,6 @@ global_feeds={
 "Comics":"http://feeds.washingtonpost.com/rss/rss_comic-riffs?itid=lk_inline_manual_40",
 "GoingOutGuide":"http://feeds.washingtonpost.com/rss/rss_going-out-gurus?itid=lk_inline_manual_41",
 },
-
 "TheWallStreetJournal":{
 "Opinion":"https://feeds.a.dj.com/rss/RSSOpinion.xml",
 "WorldNews":"https://feeds.a.dj.com/rss/RSSWorldNews.xml",
@@ -86,8 +83,6 @@ global_feeds={
 "Technology:What'sNews":"https://feeds.a.dj.com/rss/RSSWSJD.xml",
 "Lifestyle":"https://feeds.a.dj.com/rss/RSSLifestyle.xml",
 },
-
-
 "LosAngelesTimes":
 {
 "BUSINESS":"https://www.latimes.com/business/rss2.0.xml",
@@ -134,35 +129,356 @@ global_feeds={
 "TRAVEL":"https://www.latimes.com/travel/rss2.0.xml",
 "WORLD_AND_NATION":"https://www.latimes.com/world-nation/rss2.0.xml",
 },
-
-
-
-
-
-
-
-
-
-
-
-===============================
-"TheTorontoStar":"https://www.thestar.com/",
-"TheGlobeandMail":"https://www.theglobeandmail.com/",
-"LeDevoir":"https://www.ledevoir.com/",
-"LaPresse":"https://www.lapresse.ca/",
-"ElUniversal":"https://www.eluniversal.com.mx/",
-"Reforma":"https://www.reforma.com/",
 },
 'Europe':{
-"TheGuardian":"https://www.theguardian.com/help/feeds",
-"TheTimes":"https://www.times-series.co.uk/rss/",
-"TheFinancialTimes":"https://rss.feedspot.com/financial_times_rss_feeds/",
-"LeMonde":"https://www.lemonde.fr/en/rss/article/2022/06/23/the-rss-feeds-of-monde-fr_5987755_165.html",
-"LeFigaro":"https://www.lefigaro.fr/",
-"DerSpiegel":"https://www.spiegel.de/",
-"SüddeutscheZeitung":"https://www.sueddeutsche.de/service/updates-mit-rss-uebersicht-aller-rss-feeds-fuer-sz-de-sz-magazin-und-jetzt-de-1.393950",
-"FrankfurterAllgemeineZeitung":"https://www.faz.net/aktuell/",
-"ElPaís":"https://elpais.com/",
-"LaRepubblica":"https://www.repubblica.it/static/servizi/rss/index.html",
+"LeFigaro":
+{
+"LaUne":"https://www.lefigaro.fr/rss/figaro_actualites.xml",
+"FlashActu":"https://www.lefigaro.fr/rss/figaro_flash-actu.xml",
+"Politique":"https://www.lefigaro.fr/rss/figaro_politique.xml",
+"LeScanPolitique":"https://www.lefigaro.fr/rss/figaro_politique_le-scan.xml",
+"Elections":"https://www.lefigaro.fr/rss/figaro_elections.xml",
+"International":"https://www.lefigaro.fr/rss/figaro_international.xml",
+"Société":"https://www.lefigaro.fr/rss/figaro_actualite-france.xml",
+"Vox":"https://www.lefigaro.fr/rss/figaro_vox.xml",
+"SciencesetEnvironnement":"https://www.lefigaro.fr/rss/figaro_sciences.xml",
+"Santé":"https://www.lefigaro.fr/rss/figaro_sante.xml",
+"LeFigaroMagazine":"https://www.lefigaro.fr/rss/figaro_lefigaromagazine.xml",
+"Vidéos":"https://www.lefigaro.fr/rss/figaro_videos.xml",
+"Photos":"https://www.lefigaro.fr/rss/figaro_photos.xml",
+"TVMag":"https://www.lefigaro.fr/rss/madame.xml",
+"Etudiant":"http://etudiant.lefigaro.fr/rss/figaro_etudiant.xml",
+"LaUneEco":"https://www.lefigaro.fr/rss/figaro_economie.xml",
+"LeScanEco":"https://www.lefigaro.fr/rss/figaro_economie_le-scan-eco.xml",
+"LeFlashEco":"https://www.lefigaro.fr/rss/figaro_flash-eco.xml",
+"Sociétés":"https://www.lefigaro.fr/rss/figaro_societes.xml",
+"Médias":"https://www.lefigaro.fr/rss/figaro_medias.xml",
+"Tech&amp;Web":"https://www.lefigaro.fr/rss/figaro_secteur_high-tech.xml",
+"Immobilier":"https://www.lefigaro.fr/rss/figaro_immobilier.xml",
+"Bourse":"https://www.lefigaro.fr/rss/figaro_bourse.xml",
+"Assurance":"https://www.lefigaro.fr/rss/figaro_assurance.xml",
+"Retraite":"https://www.lefigaro.fr/rss/figaro_retraite.xml",
+"Placement":"https://www.lefigaro.fr/rss/figaro_placement.xml",
+"Impots":"https://www.lefigaro.fr/rss/figaro_impots.xml",
+"Consommation":"https://www.lefigaro.fr/rss/figaro_conso.xml",
+"Emploi":"https://www.lefigaro.fr/rss/figaro_emploi.xml",
+"FinancePerso":"https://www.lefigaro.fr/rss/figaro_finances-perso.xml",
+"Management":"https://www.lefigaro.fr/rss/figaro_management.xml",
+"LaUneCulture":"https://www.lefigaro.fr/rss/figaro_culture.xml",
+"Cinema":"https://www.lefigaro.fr/rss/figaro_cinema.xml",
+"Musique":"https://www.lefigaro.fr/rss/figaro_musique.xml",
+"Livres":"https://www.lefigaro.fr/rss/figaro_livres.xml",
+"Theatre":"https://www.lefigaro.fr/rss/figaro_theatre.xml",
+"ArtsetExpositions":"https://www.lefigaro.fr/rss/figaro_arts-expositions.xml",
+"Histoire":"https://www.lefigaro.fr/rss/figaro_histoire.xml",
+"LaUneArtdevivre":"https://www.lefigaro.fr/rss/figaro_lifestyle.xml",
+"Automobile":"https://www.lefigaro.fr/rss/figaro_automobile.xml",
+"Gastronomie":"https://www.lefigaro.fr/rss/figaro_gastronomie.xml",
+"SortiràParis":"https://www.lefigaro.fr/rss/figaro_sortir-paris.xml",
+"Vins":"https://www.lefigaro.fr/rss/figaro_vins.xml",
+"Voyages":"https://www.lefigaro.fr/rss/figaro_voyages.xml",
+"Jardin":"https://www.lefigaro.fr/rss/figaro_jardin.xml",
+"LaUneStyle":"https://www.lefigaro.fr/rss/figaro_style.xml",
+"Horlogerie":"https://www.lefigaro.fr/rss/figaro_horlogerie.xml",
+"Industriedelamode":"https://www.lefigaro.fr/rss/figaro_industrie-mode.xml",
+"ModeHomme":"https://www.lefigaro.fr/rss/figaro_mode-homme.xml",
+"LaUneSport":"https://www.lefigaro.fr/rss/figaro_sport.xml",
+"Football":"https://www.lefigaro.fr/rss/figaro_football.xml",
+"Transferts":"https://www.lefigaro.fr/rss/figaro_football-transfert.xml",
+"Rugby":"https://www.lefigaro.fr/rss/figaro_rugby.xml",
+"Tennis":"https://www.lefigaro.fr/rss/figaro_tennis.xml",
+"Formule1":"https://www.lefigaro.fr/rss/figaro_formule-1.xml",
+"Basket":"https://www.lefigaro.fr/rss/figaro_basket.xml",
+"JeuxOlympiques":"https://www.lefigaro.fr/rss/figaro_jeux-olympiques.xml",
+"Cyclisme":"https://www.lefigaro.fr/rss/figaro_cyclisme.xml",
+"Voile":"https://www.lefigaro.fr/rss/figaro_voile.xml",
+"Golf":"https://www.lefigaro.fr/rss/figaro_golf.xml",
+"Handball":"https://www.lefigaro.fr/rss/figaro_handball.xml",
+},
+"ElPaís":
+    {
+            'Ediciones':{
+"España     "         :  "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada" ,
+"América    "         :  "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada" ,
+"In English "         :  "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada" ,
+"México     "         :  "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/mexico/portada" ,
+"Colombia   "         :  "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america-colombia/portada" ,
+"Chile      "         :  "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/chile/portada" ,
+"Netvibes   "         :  "http://www.neOtvibes.com/subscribe.php?url=https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/chile/portada",
+"Argentina  "         :  "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/argentina/portada" ,
+},
+"Titulares": {
+    "Últimas noticias       ": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ultimas-noticias/portada", 
+"Lo más visto           ": "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/lo-mas-visto", 
+                },
+"Secciones":{
+   " Sociedad":  "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/sociedad/portada" ,        
+   " Internaciona":  "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada" ,    
+   " Opinión":  "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/opinion" ,
+   " España":  "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada" ,
+   " Economía":  "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada" ,
+   " Ciencia":  "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ciencia/portada" ,
+   " Tecnología":  "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada",
+   " Cultura":  "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/cultura/portada" ,
+   " Estilos":  "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/estilo/portada" ,
+   " Deportes":  "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/deportes/portada",
+   " Televisión":  "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/television/portada",
+   " Gente":  "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/gente/portada",
+   " Clima y Medio Ambiente":"http://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/clima-y-medio-ambiente" ,"clima",
+   " Educación":  "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/educacion" ,
+   " Gastronomía":  "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/gastronomia" ,
+   " El Comidista":  "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/gastronomia/subsection/el-comidista",
+   " Moda":  "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/smoda",
+   " EPS":  "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/eps",
+   " Babelia":  "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/babelia" ,
+   " El Viajero":  "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/elviajero" ,
+   " ICON":  "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/icon" ,
+   " Planeta futuro":  "htt:://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/planeta-futuro",
+   " Mamas y Papas":  "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/mamas-papas",
+   " Escaparate":  "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/escaparate",
+   " Ideas":  "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/ideas",
+   " Quadern":  "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/quadern/",
+   " Cinco Días":  "https://feeds.elpais.com/mrss-s/pages/ep/site/cincodias.elpais.com/portada",
+   " Negocios":  "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/economia/subsection/negocios" ,
+    },
+"Multimedia       ":{
+        "gallery":    "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/gallery" 
+        "videos":    "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/videos" ,
+        "podcasts":    "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/podcasts" ,
+        },
+ 
+            },
+"LaRepubblica":
+    {
+            ATTUALITÃ:{
+          	     
+"Repubblica Tv        ":             "http://rss.kataweb.it/videopodcasting/repubblicaradio.xml">
+"Pubblico             ":             "http://www.repubblica.it/rss/politica/rss2.0.xml",
+"Esteri               ":             "http://www.repubblica.it/rss/esteri/rss2.0.xml",
+"Economia             ":             "http://www.repubblica.it/rss/economia/rss2.0.xml",
+"Cronaca              ":             "http://www.repubblica.it/rss/cronaca/rss2.0.xml",                                                                        
+"Gallerie             ":             "http://www.repubblica.it/rss/gallerie/rss2.0.xml",                                                                
+"24 News - Agi        ":             "http://data.kataweb.it/rss/news24repubblica/rss2.0.xml",                                                                
+"Ambiente             ":             "http://www.repubblica.it/rss/ambiente/rss2.0.xml",
+"Mondo Solidale       ":             "http://www.repubblica.it/rss/solidarieta/rss2.0.xml",                                                                
+"Persone              ":         "http://www.repubblica.it/rss/persone/rss2.0.xml",
+"Salute               ":         "http://www.repubblica.it/rss/salute/rss2.0.xml",
+Scuola&amp;UniversitÃ         "http://www.repubblica.it/rss/scuola_e_universita/rss2.0.xml",
+Scienze                        "http://www.repubblica.it/rss/scienze/rss2.0.xml",
+Tecnologia                     "http://www.repubblica.it/rss/tecnologia/rss2.0.xml",
+Sport                 		"http://www.repubblica.it/rss/sport/rss2.0.xml",        
+Calcio                		"http://www.repubblica.it/rss/sport/calcio/rss2.0.xml",
+Serie A               		"http://www.repubblica.it/rss/sport/serie-a/rss2.0.xml",
+Serie B               		"http://www.repubblica.it/rss/sport/serie-b/rss2.0.xml",
+Formula Uno           		"http://www.repubblica.it/rss/sport/formulauno/rss2.0.xml",
+Moto GP               		"http://www.repubblica.it/rss/sport/motogp/rss2.0.xml",
+Tennis                		"http://www.repubblica.it/rss/sport/tennis/rss2.0.xml",
+Basket                		"http://www.repubblica.it/rss/sport/basket/rss2.0.xml",
+Rugby                 		"http://www.repubblica.it/rss/sport/rugby/rss2.0.xml",
+Ciclismo             		"http://www.repubblica.it/rss/sport/ciclismo/rss2.0.xml",
+Golf                 		"http://www.repubblica.it/rss/sport/golf/rss2.0.xml",
+Altri sport          		"http://www.repubblica.it/rss/sport/vari/rss2.0.xml",
+
+"CULTURA AND BLOG":{
+"Diario di una famiglia  ":  		"http://www.repubblica.it/rss/rubriche/diario-di-una-famiglia/rss2.0.xml",    
+"Il caso del giorno      ":  		"http://www.repubblica.it/rss/rubriche/il-caso-del-giorno/rss2.0.xml",
+"Il colle                ":  		"http://www.repubblica.it/rss/rubriche/il-colle/rss2.0.xml",
+"La legge bavaglio       ":  		"http://www.repubblica.it/rss/rubriche/la-legge-bavaglio/rss2.0.xml",    
+"La storia               ":  		"http://www.repubblica.it/rss/rubriche/la-storia/rss2.0.xml",
+"Basket l'interviste     ":                                 		"http://www.repubblica.it/rss/rubriche/basket-intervista-al-campiona/rss2.0.xml",
+"Campo pratica           ":                                		"http://www.repubblica.it/rss/rubriche/campo-pratica/rss2.0.xml",
+"Chi lo ha visto         ":                             		"http://www.repubblica.it/rss/rubriche/chi-lo-ha-visto/rss2.0.xml",
+"Ellekappa               ":                           		"http://www.repubblica.it/rss/rubriche/elle-kappa/rss2.0.xml",
+"I talenti               ":          		"http://www.repubblica.it/rss/rubriche/i-talenti/rss2.0.xml",
+"Le pagelle              ":        		"http://www.repubblica.it/rss/rubriche/lepagelle/rss2.0.xml",
+"Piccola Italia          ":                      		"http://www.repubblica.it/rss/rubriche/piccolaitalia/rss2.0.xml",
+"Racconti di sport       ":     		"http://www.repubblica.it/rss/rubriche/racconti-di-sport/rss2.0.xml",
+"Visti dall'ala          ":            		"http://www.repubblica.it/rss/rubriche/visti-dallala/rss2.0.xml",
+"Piccole crisi           ":                     		"http://www.repubblica.it/rss/rubriche/piccole-crisi-senza-importanza/rss2.0.xml",
+"Deputato anonimo        ":                		"http://www.repubblica.it/rss/rubriche/deputato-anonimo/rss2.0.xml",
+"Toghe         ":       		"http://www.repubblica.it/rss/rubriche/toghe/rss2.0.xml",
+"Fuori giri    ":      		"http://www.repubblica.it/rss/rubriche/fuori-giri/rss2.0.xml",
+"Il Monsignore                   ":                                         		"http://www.repubblica.it/rss/rubriche/il-monsignore/rss2.0.xml",    
+"Il Cruciverba                   ":                         		"http://www.repubblica.it/rss/rubriche/ilcruciverba/rss2.0.xml",
+"Il Graffio                      ":                          		"http://www.repubblica.it/rss/rubriche/ilgraffio/rss2.0.xml",
+"La Parola                       ":                         		"http://www.repubblica.it/rss/rubriche/la-parola/rss2.0.xml",
+"Lessico e Nuvole                ":                    		"http://www.repubblica.it/rss/rubriche/lessicoenuvole/rss2.0.xml",
+"Poteri Forti                    ":                          		"http://www.repubblica.it/rss/rubriche/lobby/rss2.0.xml",
+"Navi in Bottiglia               ":                             		"http://www.repubblica.it/rss/rubriche/naviinbottiglia/rss2.0.xml",
+"Poteri Invisibili               ":                                 		"http://www.repubblica.it/rss/rubriche/poteri-invisibili/rss2.0.xml",
+"Punto e Svirgola                ":                                    		"http://www.repubblica.it/rss/rubriche/punto-e-svirgola/rss2.0.xml",
+"Bussole                         ":                                   		"http://www.repubblica.it/rss/rubriche/bussole/rss2.0.xml",
+"Spycalcio                       ":                                     		"http://www.repubblica.it/rss/rubriche/spycalcio/rss2.0.xml",
+"Polis                           ":                             		"http://www.repubblica.it/rss/rubriche/polis/rss2.0.xml",
+"Dekoder                         ":                                       		"http://www.repubblica.it/rss/rubriche/dekoder/rss2.0.xml",
+"Percentualmente                 ":                                   		"http://amato.blogautore.repubblica.it/feed/",
+"Media-Trek                      ":                                      		"http://assante.blogautore.repubblica.it/feed/",
+"Post teatro                     ":                                   		"http://bandettini.blogautore.repubblica.it/feed/",
+"Bloooog!                        ":                                          		"http://bocca.blogautore.repubblica.it/feed/",
+"Europe                          ":                  		"http://bonanni.blogautore.repubblica.it/feed/",
+"BlogMotori                      ":                        		"http://borgomeo.blogautore.repubblica.it/feed/",
+"Politica Pop                    ":                                    		"http://bracconi.blogautore.repubblica.it/feed/">
+"Chiedimi Come                   ":                         		"http://bucchi.blogautore.repubblica.it/feed/",
+"Piccola Italia                  ":                            		"http://caporale.blogautore.repubblica.it/feed/",
+"Diritti e rovesci               ":                                           		"http://cadalanu.blogautore.repubblica.it/feed/",
+"Stato e Spettacolo              ":                                        		"http://ceccarelli.blogautore.repubblica.it/feed/",
+"Eco-logica                      ":                                    		"http://cianciullo.blogautore.repubblica.it/feed/",
+"Blog Trotter                    ":                                  		"http://coen.blogautore.repubblica.it/feed/",
+"Destinazioni                    ":                                		"http://cresto-dina.blogautore.repubblica.it/feed/",
+"Rimbalzi                        ":                            		"http://crosetti.blogautore.repubblica.it/feed/",
+"Corazzata Potemkin              ":                                      		"http://dagostini.blogautore.repubblica.it/feed/",
+"My Tube                         ":                       		"http://franceschini.blogautore.repubblica.it/feed/",
+"2050                            ":                    		"http://gualerzi.blogautore.repubblica.it/feed/",
+"Animal Mouse                    ":                    		"http://nadotti.blogautore.repubblica.it/feed/",
+"Controfagotto                   ":                         		"http://lastella.blogautore.repubblica.it/feed/",
+"Il non-senso della vita         ":                                 		"http://odifreddi.blogautore.repubblica.it/feed/",
+"Bookowski                       ":                         		"http://olivero.blogautore.repubblica.it/feed/",
+"Noi&amp;Voi                     ":                               		"http://pepe.blogautore.repubblica.it/feed/",
+"Estremo Occidente               ":                             		"http://rampini.blogautore.repubblica.it/feed/",
+"WWWomen                         ":                       		"http://sasso.blogautore.repubblica.it/feed/",
+"Orient-tales                    ":                        		"http://scuto.blogautore.repubblica.it/feed/",
+"Fotocrazia                      ":                          		"http://smargiassi-michele.blogautore.repubblica.it/feed/",
+"PNR - presi nella rete          ":                                  		"http://stagliano.blogautore.repubblica.it/feed/",
+"In un altro paese               ":                                 		"http://stille.blogautore.repubblica.it/feed/",
+"Ritagli                         ":                                   		"http://vecchio.blogautore.repubblica.it/feed/",
+"Scene Digitali                  ":                                          		"http://zambardino.blogautore.repubblica.it/feed/",
+"Tempo Reale                     ":                                           		"http://zucconi.blogautore.repubblica.it/feed/",
+        },
+                      
+"viaggi":{
+Viaggi 
+ 		"http://www.repubblica.it/rss/repubblica/viaggi/feed.rss",
+Proposte Week-end
+ 		"http://www.repubblica.it/rss/repubblica/viaggi/weekend/feed.rss",
+                      
+Proposte vacanze
+ 		"http://viaggi.repubblica.it/rss/vacanze",
+                      
+Case vacanze
+ 		"http://annunci.repubblica.it/rss/italia/viaggi/case-vacanze/",
+                      
+Diari di viaggio
+ 		"http://viaggi.repubblica.it/rss/diari-viaggio",
+                      
+Eventi
+ 		"http://viaggi.repubblica.it/rss/eventi",
+                      
+Notiziario
+ 		"http://viaggi.repubblica.it/rss/notiziario",
+        },
+                      
+                      
+"MOTORI":{
+Motori 
+ 		"http://www.repubblica.it/rss/motori/rss2.0.xml",
+                      
+NovitÃ 
+ 		"http://www.repubblica.it/rss/motori/novita/rss2.0.xml",
+                      
+AttualitÃ 
+ 		"http://www.repubblica.it/rss/motori/attualita/rss2.0.xml",
+                      
+Ecoauto
+ 		"http://www.repubblica.it/rss/motori/ecoauto/rss2.0.xml",
+                      
+Sicurezza
+ 		"http://www.repubblica.it/rss/motori/sicurezza/rss2.0.xml",
+                      
+Dueruote
+ 		"http://www.repubblica.it/rss/motori/dueruote/rss2.0.xml",
+                      
+Caravan&amp;Camper
+ 		"http://www.repubblica.it/rss/motori/caravan-e-camper/rss2.0.xml",
+                      
+Nautica
+ 		"http://www.repubblica.it/rss/motori/nautica/rss2.0.xml",
+                      
+Annunci
+ 		"http://annunci.repubblica.it/rss/italia/motori",
+                      
+        },
+                      
+                      
+"LIFESTYLE":{
+Home 
+ 		"http://temi.repubblica.it/casa/feed/",
+                      
+NovitÃ  
+ 		"http://temi.repubblica.it/casa/category/news/feed/",
+                      
+Mobili 
+ 		"http://temi.repubblica.it/casa/category/mobili/feed/",
+                      
+Elettrodomestici 
+ 		"http://temi.repubblica.it/casa/category/elettrodomestici/feed/",
+                      
+Materiali 
+ 		"http://temi.repubblica.it/casa/category/materiali/feed/",
+                      
+UniversitÃ  
+ 		"http://temi.repubblica.it/casa/category/universita/feed/",
+                      
+Glossario 
+ 		"http://temi.repubblica.it/casa/category/glossario/feed/",
+                      
+Storia dell'arredo 
+ 		"http://temi.repubblica.it/casa/category/assedeltempo/feed/",
+                      
+        },
+                      
+                      
+                     
+                    
+                    
+          
+          
+          
+            },
+},
+=======================================
+'general':{
+"BBCNews":"https://feeds.bbci.co.uk/news/rss.xml",
+"TheNewYorkTimes":"https://rss.nytimes.com/services/xml/rss/nyt/world.xml",
+"AlJazeera":"https://www.aljazeera.com/xml/rss/all.xml",
+"TheGuardian":"https://www.theguardian.com/world/rss",
+"TheWashingtonPost":"https://feeds.washingtonpost.com/rss/world",
+"CNN":"https://rss.cnn.com/rss/edition.rss",
+"SkyNews":"https://feeds.skynews.com/feeds/rss/world.xml",
+"Reuters":"https://www.reuters.com/feeds/worldNews.xml",
+"France24":"https://www.france24.com/rss/en/news",
+"ElPaís":"https://feeds.elpais.com/rss/IN/portada.xml",
+"DerSpiegel":"https://rss.spiegel.de/rss/spiegel/start.xml",
+"LaRepubblica":"https://www.repubblica.it/rss/rss2.0/sezioni/homepage/homepage.xml",
+"AsahiShimbun":"https://www.asahi.com/rss/rss.xml",
+"YomiuriShimbun":"https://www.yomiuri.co.jp/rss/rss20/rss.xml",
+"TheHindu":"https://www.thehindu.com/rss/rss2.xml",
+"HindustanTimes":"https://rss.hindustantimes.com/rss2.0/main.xml",
+"TheStraitsTimes":"https://www.straitstimes.com/rss/rss.xml",
+"TheAustralian":"https://www.theaustralian.com.au/rss/2270690/rss.xml",
+"TheGlobeandMail":"https://rss.globeandmail.com/rss/world.xml",
+"TorontoStar":"https://www.thestar.com/rss/world.xml",
+"LeMonde":"https://www.lemonde.fr/rss/rss_monde.xml",
+"Libération":"https://www.liberation.fr/rss/rss_201.xml",
+"LeFigaro":"https://rss.lefigaro.fr/lefigaro/rss_lefigaro_international.xml",
+"ElMundo":"https://www.elmundo.es/rss/rss2.xml",
+"ABC":"https://www.abc.es/rss/rss.xml",
+"Público":"https://rss.publico.es/rss/home/ultima_hora.xml",
+"Izvestia":"https://iz.ru/rss/rss.xml",
+"Kommersant":"https://www.kommersant.ru/rss/main",
+"Pravda":"https://www.pravda.ru/rss/rss.xml",
+"CCTV":"http://news.cctv.com/world/rss/worldnews.xml",
+"XinhuaNewsAgency":"http://en.xinhuanet.com/newscenter/rss_world.xml",
+"NHK":"https://www3.nhk.or.jp/rss/news/latest-news.xml",
+"BBCMundo":"https://www.bbc.com/mundo/rss/mundo",
+"CNNenEspañol":"https://www.cnnespanol.cnn.com/rss/mundo",
+"ElPaísAmérica":"https://rss.elpais.com/rss/IN/portadaamerica.xml",
+"Infobae":"https://www.infobae.com/rss/feed/rss_america",
+"Clarín":"https://www.clarin.com/rss/rss_argentina/",
+"FolhadeS.Paulo":"https://www.folha.uol.com.br/rss/tudo.xml",
+"OGlobo":"https://oglobo.globo.com/rss/rss_todo.xml",
+"JornaldoBrasil":"https://www.jb.com.br/rss/jb_top.xml",
+"AlJazeeraEnglish":"https://www.aljazeera.com/xml/rss/all/en.xml",
+"TheGuardianU.S.":"https://www.theguardian.com/us-news/rss",
+"TheWashingtonPost-World":"https://feeds.washingtonpost.com/rss/world",
 },
 }
