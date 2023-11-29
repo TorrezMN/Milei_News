@@ -15,7 +15,7 @@ def build_row(name, section, i):
         "credit": i.get("credit", ""),
     }
     my_file = get_file_tree(name, section, "Argentina")
-    print("Adding one.")
+    print("------------------------------------ | Adding one.")
     append_data(str(my_file), data)
 
 

@@ -19,13 +19,17 @@ def build_row(name, section, entry):
     try:
         with open(my_file, "a") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
+            print("------------------------------------ | Adding one.")
     except UnicodeEncodeError as e:
         print(f"Encoding error: {e}")
+        pass
 
 
 def parse_url(name, section, url):
+    print('='*55)
     print(f"SECTION: {section}")
     print(f"NAME: {name}")
+    print('='*55)
     NewsFeed = feedparser.parse(url)
     entries = []
     for entry in NewsFeed.entries:

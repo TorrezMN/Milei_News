@@ -30,5 +30,21 @@
             }
         ],
         "credit": ""
+    },
+    {
+        "news_paper": "LaNacion",
+        "section": "SuplementoComunidad",
+        "title": "Milei regres\u00f3 al pa\u00eds desde EE.UU. y confirm\u00f3 a Luis Caputo como ministro de Econom\u00eda",
+        "link": "https://www.lanacion.com.ar/politica/milei-hablo-de-una-respuesta-favorable-de-ee-uu-a-su-visita-y-dijo-que-planteo-su-postura-nid29112023/",
+        "summary": "El presidente electo baj\u00f3 del avi\u00f3n e hizo el anuncio; adem\u00e1s, destac\u00f3 que su visita a la Casa Blanca fue \u201cextraordinaria\u201d",
+        "published": "Wed, 29 Nov 2023 13:06:24 +0000",
+        "tags": [
+            {
+                "term": "Pol\u00edtica",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "credit": ""
     }
 ]

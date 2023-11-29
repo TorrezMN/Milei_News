@@ -90,4 +90,49 @@
     }
   ],
   "credit": "Anita Pouchard Serra for The New York Times"
+}{
+  "news_paper": "TheNewYorkTimes",
+  "section": "Americas",
+  "title": "Argentina’s Economy Depends on the U.S. Dollar. Can Javier Milei Change That?",
+  "link": "https://www.nytimes.com/2023/11/24/world/americas/argentina-economy-peso-dollar-javier-milei.html",
+  "summary": "Years of economic quagmire created an upside-down economy in Argentina. Javier Milei, a far-right populist, won the presidency this week by promising to blow it all up.",
+  "published": "Fri, 24 Nov 2023 16:55:56 +0000",
+  "tags": [
+    {
+      "term": "Argentina",
+      "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+      "label": null
+    },
+    {
+      "term": "Economic Conditions and Trends",
+      "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+      "label": null
+    },
+    {
+      "term": "Inflation (Economics)",
+      "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+      "label": null
+    },
+    {
+      "term": "Currency",
+      "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+      "label": null
+    },
+    {
+      "term": "US Dollar (Currency)",
+      "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+      "label": null
+    },
+    {
+      "term": "Milei, Javier",
+      "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+      "label": null
+    },
+    {
+      "term": "Politics and Government",
+      "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+      "label": null
+    }
+  ],
+  "credit": "Anita Pouchard Serra for The New York Times"
 }
