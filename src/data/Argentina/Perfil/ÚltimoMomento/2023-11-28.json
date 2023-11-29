@@ -40,5 +40,31 @@
             }
         ],
         "credit": ""
+    },
+    {
+        "news_paper": "Perfil",
+        "section": "\u00daltimoMomento",
+        "title": "Tras una reuni\u00f3n en la Casa Blanca, Javier Milei termina su gira en Estados Unidos y regresar\u00e1 a Argentina",
+        "link": "https://www.perfil.com/noticias/politica/tras-una-reunion-en-la-casa-blanca-javier-milei-termina-su-gira-en-estados-unidos-y-regresara-a-argentina.phtml",
+        "summary": "<p><img alt=\"Javier Milei 20231128\" src=\"https://fotos.perfil.com/2023/11/28/trim/540/304/javier-milei-20231128-1708191.jpg\" /></p>El presidente electo estuvo en Nueva York y en Washington, y tiene previsto retomar su agenda pol\u00edtica en el pa\u00eds a partir de este mi\u00e9rcoles. <a href=\"https://www.perfil.com/noticias/politica/tras-una-reunion-en-la-casa-blanca-javier-milei-termina-su-gira-en-estados-unidos-y-regresara-a-argentina.phtml\">Leer m\u00e1s</a>",
+        "published": "Tue, 28 Nov 2023 22:08:00 GMT",
+        "tags": [
+            {
+                "term": "Javier Milei",
+                "scheme": "https://www.perfil.com/tags/javier-milei",
+                "label": null
+            },
+            {
+                "term": "Casa Blanca",
+                "scheme": "https://www.perfil.com/tags/casa-blanca",
+                "label": null
+            },
+            {
+                "term": "Estados Unidos",
+                "scheme": "https://www.perfil.com/tags/estados-unidos",
+                "label": null
+            }
+        ],
+        "credit": ""
     }
 ]

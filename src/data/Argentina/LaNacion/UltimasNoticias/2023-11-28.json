@@ -30,5 +30,21 @@
             }
         ],
         "credit": "Captura"
+    },
+    {
+        "news_paper": "LaNacion",
+        "section": "UltimasNoticias",
+        "title": "Cayetana \u00c1lvarez de Toledo: \u201cSi Javier Milei fracasa no va a haber quien saque al peronismo por un siglo\u201d",
+        "link": "https://www.lanacion.com.ar/el-mundo/cayetana-alvarez-de-toledo-si-javier-milei-fracasa-no-va-a-haber-quien-saque-al-peronismo-por-un-nid28112023/",
+        "summary": "La diputada espa\u00f1ola, criada en la Argentina, remarc\u00f3 que \u201cla segunda tiene que ser la vencida\u201d; \u201cEspa\u00f1a tiene lecciones para aprender\u201d de la uni\u00f3n entre JxC y el presidente electo",
+        "published": "Wed, 29 Nov 2023 00:41:42 +0000",
+        "tags": [
+            {
+                "term": "El Mundo",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "credit": "San Roman, Ignacio (Redactor)"
     }
 ]

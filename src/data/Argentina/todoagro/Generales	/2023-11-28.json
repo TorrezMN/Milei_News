@@ -90,5 +90,51 @@
             }
         ],
         "credit": ""
+    },
+    {
+        "news_paper": "todoagro",
+        "section": "Generales\t",
+        "title": "Fernando Vilella, el nombre que suena para la Secretar\u00eda de Agricultura de Milei",
+        "link": "https://www.todoagro.com.ar/fernando-vilella-el-nombre-que-suena-para-la-secretaria-de-agricultura-de-milei/?utm_source=rss&utm_medium=rss&utm_campaign=fernando-vilella-el-nombre-que-suena-para-la-secretaria-de-agricultura-de-milei",
+        "summary": "<p>El ex Decano de la FAUBA ser\u00eda el responsable de esta importante cartera. Lo acompa\u00f1ar\u00edan referentes del sector como Pedro Vigneau (Maizar) y Germ\u00e1n Patts (ex presidente de Barbechando). </p>\n<p>La entrada <a href=\"https://www.todoagro.com.ar/fernando-vilella-el-nombre-que-suena-para-la-secretaria-de-agricultura-de-milei/\">Fernando Vilella, el nombre que suena para la Secretar\u00eda de Agricultura de Milei</a> pertenece a <a href=\"https://www.todoagro.com.ar\">Todo Agro</a>.</p>",
+        "published": "Tue, 21 Nov 2023 11:29:29 +0000",
+        "tags": [
+            {
+                "term": "Generales",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Agricultura",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Milei",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Patts",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "secretario",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Vigneau",
+                "scheme": null,
+                "label": null
+            },
+            {
+                "term": "Vilella",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "credit": ""
     }
 ]

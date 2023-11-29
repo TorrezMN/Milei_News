@@ -5,22 +5,20 @@ import json
 import datetime
 
 
-
 def wait_random_time():
     # Generate a random number between 2 and 5
     random_time = random.randrange(2, 6)
-    print(f'Waiting {random_time} seconds.')
+    print(f"Waiting {random_time} seconds.")
 
     # Wait for the random number of seconds
     time.sleep(random_time)
 
 
-def get_file_tree(d,s,origin):
+def get_file_tree(d, s, origin):
     today = datetime.date.today()
     date_str = today.strftime("%Y-%m-%d")
     output_str = f"./data/{origin}/{d}/{s}/" + date_str + ".json"
-    return(output_str)
-
+    return output_str
 
 
 def create_path(file_path):
@@ -41,11 +39,10 @@ def create_path(file_path):
     return file_path
 
 
-
 def append_data(file, data):
     f_path = create_path(file)
 
-    with open(file, 'r+') as f:
+    with open(file, "r+") as f:
         try:
             # Load existing JSON data
             existing_data = json.load(f)
@@ -61,6 +58,7 @@ def append_data(file, data):
 
         # Overwrite the file with the updated data
         json.dump(existing_data, f, indent=4)
+
 
 def pprint_data(data):
     """Pretty prints a dictionary."""
