@@ -46,5 +46,21 @@
             }
         ],
         "credit": ""
+    },
+    {
+        "news_paper": "BigBangNews",
+        "section": "Pol\u00edtica",
+        "title": "La agenda de Milei: fin de la Secretaria de Comercio, la visita de Vox y su nuevo vocero",
+        "link": "https://www.bigbangnews.com/politica/la-agenda-milei-fin-secretaria-comercio-visita-vox-su-nuevo-vocero-n87264",
+        "summary": "<img src=\"https://statics.bigbangnews.com/2023/11/crop/6567b0f16152a__993x610.webp\" /><p>El presidente electo anunci\u00f3 cambios y la abolici\u00f3n de la secretar\u00eda.</p>",
+        "published": "Wed, 29 Nov 2023 18:30:00 -0300",
+        "tags": [
+            {
+                "term": "Pol\u00edtica",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "credit": ""
     }
 ]

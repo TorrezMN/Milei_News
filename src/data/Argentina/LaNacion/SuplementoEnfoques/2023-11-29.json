@@ -46,5 +46,21 @@
             }
         ],
         "credit": ""
+    },
+    {
+        "news_paper": "LaNacion",
+        "section": "SuplementoEnfoques",
+        "title": "\u201cSe\u00f1ales claras\u201d: las principales cadenas agr\u00edcolas le hicieron un contundente pedido al pr\u00f3ximo gobierno de Javier Milei",
+        "link": "https://www.lanacion.com.ar/economia/campo/senales-claras-las-principales-cadenas-agricolas-le-hicieron-un-contundente-pedido-al-proximo-nid29112023/",
+        "summary": "Las asociaciones que agrupan a los sectores de la soja, ma\u00edz-sorgo, girasol y trigo solicitaron \u201cun plan concreto de eliminaci\u00f3n\u201d de las retenciones, entre otros puntos",
+        "published": "Wed, 29 Nov 2023 23:34:56 +0000",
+        "tags": [
+            {
+                "term": "Campo",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "credit": ""
     }
 ]

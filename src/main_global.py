@@ -23,6 +23,9 @@ def build_row(name, section, entry):
     except UnicodeEncodeError as e:
         print(f"Encoding error: {e}")
         pass
+    except FileNotFoundError as e:
+        print(f"File not found: {e}")
+        pass
 
 
 def parse_url(name, section, url):
