@@ -1,6 +1,7 @@
 import time
 import random
 import os
+from pathlib import Path
 import json
 import datetime
 
@@ -17,31 +18,14 @@ def wait_random_time():
 def get_file_tree(d, s, origin):
     today = datetime.date.today()
     date_str = today.strftime("%Y-%m-%d")
+    file_path = f"./data/{origin}/{d}/{s}/" 
+    Path(file_path).mkdir(parents=True, exist_ok=True)
     output_str = f"./data/{origin}/{d}/{s}/" + date_str + ".json"
     return output_str
 
 
-def create_path(file_path):
-    if os.path.exists(file_path):
-        # Path already exists, so do nothing
-        return None
-
-    # Create the parent directory if it doesn't exist
-    parent_dir = os.path.dirname(file_path)
-    if not os.path.exists(parent_dir):
-        os.makedirs(parent_dir)
-
-    # Create the file itself
-    with open(file_path, "w"):
-        pass
-
-    # Return the file path
-    return file_path
-
 
 def append_data(file, data):
-    f_path = create_path(file)
-
     with open(file, "r+") as f:
         try:
             # Load existing JSON data
