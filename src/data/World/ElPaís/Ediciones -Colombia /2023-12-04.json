@@ -148,4 +148,79 @@
     }
   ],
   "credit": "Juan Ignacio Roncoroni (EFE)"
+}{
+  "news_paper": "ElPaís",
+  "section": "Ediciones -Colombia ",
+  "title": "El apoyo al ultra Milei, una moneda en el aire para el expresidente argentino Mauricio Macri",
+  "link": "https://elpais.com/argentina/2023-12-04/el-apoyo-al-ultra-milei-una-moneda-en-el-aire-para-el-expresidente-argentino-mauricio-macri.html",
+  "summary": "El conservador cerró filas con el mandatario electo, que busca desligarse de su sombra para gobernar",
+  "published": "Mon, 04 Dec 2023 04:30:00 GMT",
+  "tags": [
+    {
+      "term": "Argentina",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Mauricio Macri",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Patricia Bullrich",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Javier Milei",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Peronismo",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Kirchnerismo",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Elecciones Argentina",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Ultraderecha",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Buenos Aires",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Boca Juniors",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "América",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Latinoamérica",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Sudamérica",
+      "scheme": null,
+      "label": null
+    }
+  ],
+  "credit": "Juan Ignacio Roncoroni (EFE)"
 }

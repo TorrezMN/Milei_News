@@ -98,4 +98,54 @@
     }
   ],
   "credit": ""
+}{
+  "news_paper": "ElPaís",
+  "section": "multimedia -podcasts",
+  "title": "‘Podcast’ | De los gritos al pragmatismo: ¿cambió Milei su estrategia?",
+  "link": "https://elpais.com/podcasts/hoy-en-el-pais/2023-11-21/podcast-de-los-gritos-al-pragmatismo-cambio-milei-su-estrategia.html",
+  "summary": "El discurso del ganador de las elecciones presidenciales de Argentina no tuvo la agresividad contra el feminismo o la izquierda que mostró en campaña, aunque promete mano dura contra la disidencia",
+  "published": "Tue, 21 Nov 2023 04:45:00 GMT",
+  "tags": [
+    {
+      "term": "Podcast",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Argentina",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Elecciones",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Javier Milei",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Felipe Massa",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Ultraderecha",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Liberalismo político",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Elecciones presidenciales",
+      "scheme": null,
+      "label": null
+    }
+  ],
+  "credit": ""
 }

@@ -108,4 +108,59 @@
     }
   ],
   "credit": "Juan Ignacio Roncoroni (EFE)"
+}{
+  "news_paper": "ElPaís",
+  "section": "Secciones- Internaciona",
+  "title": "¿Qué Milei gobernará?",
+  "link": "https://elpais.com/internacional/2023-11-27/que-milei-gobernara.html",
+  "summary": "En Argentina parece haber dos presidentes: uno es el estadista en ciernes con las gafas de lectura y el otro es el ideólogo que despotrica contra la incapacidad de las élites de siempre para crear un país mejor",
+  "published": "Mon, 27 Nov 2023 04:40:00 GMT",
+  "tags": [
+    {
+      "term": "Política",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Argentina",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Javier Milei",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Elecciones",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Economía",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Peronismo",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Partidos políticos",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Democracia",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Crisis económica",
+      "scheme": null,
+      "label": null
+    }
+  ],
+  "credit": "Juan Ignacio Roncoroni (EFE)"
 }
