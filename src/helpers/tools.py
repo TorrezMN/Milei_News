@@ -18,11 +18,10 @@ def wait_random_time():
 def get_file_tree(d, s, origin):
     today = datetime.date.today()
     date_str = today.strftime("%Y-%m-%d")
-    file_path = f"./data/{origin}/{d}/{s}/" 
+    file_path = f"./data/{origin}/{d}/{s}/"
     Path(file_path).mkdir(parents=True, exist_ok=True)
     output_str = f"./data/{origin}/{d}/{s}/" + date_str + ".json"
     return output_str
-
 
 
 def append_data(file, data):

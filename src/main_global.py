@@ -29,10 +29,10 @@ def build_row(name, section, entry):
 
 
 def parse_url(name, section, url):
-    print('='*55)
+    print("=" * 55)
     print(f"SECTION: {section}")
     print(f"NAME: {name}")
-    print('='*55)
+    print("=" * 55)
     NewsFeed = feedparser.parse(url)
     entries = []
     for entry in NewsFeed.entries:
@@ -51,10 +51,15 @@ def parse_url(name, section, url):
 if __name__ == "__main__":
     zonas = list(global_feeds.keys())
     for zona in zonas:
-        diarios = global_feeds[zona].keys()
-        for diario in diarios:
-            sections = global_feeds[zona][diario].keys()
-            for section in sections:
-                url = global_feeds[zona][diario][section]
-                parse_url(diario, section, url)
-
+        if zona != "General":
+            diarios = global_feeds[zona].keys()
+            for diario in diarios:
+                sections = global_feeds[zona][diario].keys()
+                for section in sections:
+                    url = global_feeds[zona][diario][section]
+                    parse_url(diario, section, url)
+        else:
+            diarios = global_feeds[zona].keys()
+            for diario in diarios:
+                url = global_feeds[zona][diario]
+                parse_url(diario, "random", url)
