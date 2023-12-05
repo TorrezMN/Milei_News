@@ -73,4 +73,29 @@
     }
   ],
   "credit": "Juan Ignacio Roncoroni (EFE)"
+}{
+  "news_paper": "ElPaís",
+  "section": "Ediciones -In English ",
+  "title": "Which Milei will govern?",
+  "link": "https://english.elpais.com/opinion/2023-12-03/which-milei-will-govern.html",
+  "summary": "In Argentina there seem to be two presidents: one is the budding statesman with the reading glasses and the other is the ideologue who rants against the inability of the usual elites to create a better country",
+  "published": "Sun, 03 Dec 2023 23:10:06 GMT",
+  "tags": [
+    {
+      "term": "Javier Milei",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Moisés Naím",
+      "scheme": null,
+      "label": null
+    },
+    {
+      "term": "Argentina",
+      "scheme": null,
+      "label": null
+    }
+  ],
+  "credit": "Juan Ignacio Roncoroni (EFE)"
 }
