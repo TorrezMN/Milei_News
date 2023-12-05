@@ -1,3 +1,5 @@
+
+import json
 import feedparser
 from helpers.base_rss import feeds
 from helpers.tools import pprint_data, get_file_tree, append_data, wait_random_time
@@ -15,8 +17,16 @@ def build_row(name, section, i):
         "credit": i.get("credit", ""),
     }
     my_file = get_file_tree(name, section, "Argentina")
-    print("------------------------------------ | Adding one.")
-    append_data(str(my_file), data)
+    try:
+        with open(my_file, "a") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+            print("------------------------------------ | Adding one.")
+    except UnicodeEncodeError as e:
+        print(f"Encoding error: {e}")
+        pass
+    except FileNotFoundError as e:
+        print(f"File not found: {e}")
+        pass
 
 
 def parse_url(name, section, url):
