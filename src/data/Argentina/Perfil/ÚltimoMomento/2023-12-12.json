@@ -148,4 +148,34 @@
     }
   ],
   "credit": ""
+}{
+  "news_paper": "Perfil",
+  "section": "ÚltimoMomento",
+  "title": "Qué queda del Javier Milei que pedía que todo explote",
+  "link": "https://www.perfil.com/noticias/opinion/que-queda-del-javier-milei-que-pedia-que-todo-explote.phtml",
+  "summary": "<p><img alt=\"Bomba a punto de estallar 20231212\" src=\"https://fotos.perfil.com/2023/12/12/trim/540/304/bomba-a-punto-de-estallar-20231212-1718363.jpg\" /></p>Con una ex enemiga acérrima que lo recibió de rojo y sonriente –conserva la presidencia de las principales comisiones bicamerales - Javier Milei demostró que está solo. No se dirigió a la Asamblea Legislativa ni hubo transmisión oficial de la jura de ministros, algo inédito. Quien pedía que todo explote tiene la bomba a punto de estallar. <a href=\"https://www.perfil.com/noticias/opinion/que-queda-del-javier-milei-que-pedia-que-todo-explote.phtml\">Leer más</a>",
+  "published": "Tue, 12 Dec 2023 22:26:34 GMT",
+  "tags": [
+    {
+      "term": "Javier Milei",
+      "scheme": "https://www.perfil.com/tags/javier-milei",
+      "label": null
+    },
+    {
+      "term": "Ajuste",
+      "scheme": "https://www.perfil.com/tags/ajuste",
+      "label": null
+    },
+    {
+      "term": "Bomba",
+      "scheme": "https://www.perfil.com/tags/bomba",
+      "label": null
+    },
+    {
+      "term": "Luis Caputo",
+      "scheme": "https://www.perfil.com/tags/luis-caputo",
+      "label": null
+    }
+  ],
+  "credit": ""
 }
