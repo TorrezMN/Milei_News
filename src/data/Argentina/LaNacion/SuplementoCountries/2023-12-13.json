@@ -13,4 +13,49 @@
     }
   ],
   "credit": "Rodrigo Nespolo"
+}{
+  "news_paper": "LaNacion",
+  "section": "SuplementoCountries",
+  "title": "Carlos Melconian analizó los anuncios de Caputo y acusó a Milei de canjear “motosierra por licuadora”",
+  "link": "https://www.lanacion.com.ar/politica/carlos-melconian-analizo-los-anuncios-de-caputo-y-acuso-a-milei-de-canjear-motosierra-por-licuadora-nid13122023/",
+  "summary": "El expresidente del Banco Nación se refirió al paquete de medidas que comunicó el ministro de Economía este martes",
+  "published": "Wed, 13 Dec 2023 14:12:52 +0000",
+  "tags": [
+    {
+      "term": "Política",
+      "scheme": null,
+      "label": null
+    }
+  ],
+  "credit": "Benegas Romina Susana (REDACTORA)"
+}{
+  "news_paper": "LaNacion",
+  "section": "SuplementoCountries",
+  "title": "Las medidas del gobierno de Javier Milei, en vivo: se formalizó al procurador del Tesoro, al interventor de la AFI y nuevos subsecretarios",
+  "link": "https://www.lanacion.com.ar/politica/las-medidas-del-gobierno-de-javier-milei-en-vivo-nid13122023/",
+  "summary": "El ministro de Economía, Luis Caputo, hizo un esperado anuncio en el que enumeró diez lineamientos con la intención de reducir el déficit fiscal; este miércoles el Banco Central hará lo propio con para intentar fortalecer las reservas y desarmar la “bola de leliqs”",
+  "published": "Wed, 13 Dec 2023 15:07:06 +0000",
+  "tags": [
+    {
+      "term": "Política",
+      "scheme": null,
+      "label": null
+    }
+  ],
+  "credit": "Twitter"
+}{
+  "news_paper": "LaNacion",
+  "section": "SuplementoCountries",
+  "title": "Las medidas del gobierno de Javier Milei, en vivo: se formalizó al procurador del Tesoro, al interventor de la AFI y nuevos subsecretarios",
+  "link": "https://www.lanacion.com.ar/politica/las-medidas-del-gobierno-de-javier-milei-en-vivo-nid13122023/",
+  "summary": "El ministro de Economía, Luis Caputo, hizo un esperado anuncio en el que enumeró diez lineamientos con la intención de reducir el déficit fiscal; los principales bancos de inversión de Wall Street prevén que las medidas pueden conducir al equilibrio de las cuentas públicas, aunque pronosticaron una mayor inflación y una recesión el año próximo",
+  "published": "Wed, 13 Dec 2023 18:14:15 +0000",
+  "tags": [
+    {
+      "term": "Política",
+      "scheme": null,
+      "label": null
+    }
+  ],
+  "credit": "Captura"
 }
