@@ -58,4 +58,19 @@
     }
   ],
   "credit": ""
+}{
+  "news_paper": "LaNacion",
+  "section": "SuplementoTecnología",
+  "title": "El plan anti-Milei ideado por Milei",
+  "link": "https://www.lanacion.com.ar/politica/el-plan-anti-milei-ideado-por-milei-nid13122023/",
+  "summary": "Si alguien temía que el presunto dogmatismo del nuevo presidente amenazaría la viabilidad de su gobierno, debería quedarse más tranquilo",
+  "published": "Thu, 14 Dec 2023 00:55:22 +0000",
+  "tags": [
+    {
+      "term": "Política",
+      "scheme": null,
+      "label": null
+    }
+  ],
+  "credit": "Rodrigo Nespolo"
 }
