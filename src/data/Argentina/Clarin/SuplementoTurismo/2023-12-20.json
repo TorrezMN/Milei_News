@@ -13,4 +13,34 @@
     }
   ],
   "credit": "Captura"
+}{
+  "news_paper": "Clarin",
+  "section": "SuplementoTurismo",
+  "title": "Por la cadena nacional, Milei anunciará la extensión de los períodos de prueba laborales, límites a las indemnizaciones y un recorte de gastos",
+  "link": "https://www.lanacion.com.ar/politica/extension-de-los-periodos-de-prueba-laborales-limites-a-las-indemnizaciones-y-recorte-de-gastos-nid19122023/",
+  "summary": "El DNU, que sería firmado este miércoles por los ministros, incluirá cambios en la legislación laboral, además de medidas para achicar las erogaciones del Estado; lo comunicará el propio Presidente a las 21",
+  "published": "Wed, 20 Dec 2023 14:10:24 +0000",
+  "tags": [
+    {
+      "term": "Política",
+      "scheme": null,
+      "label": null
+    }
+  ],
+  "credit": ""
+}{
+  "news_paper": "Clarin",
+  "section": "SuplementoTurismo",
+  "title": "Javier Milei derogó la ley de alquileres: los contratos serán de dos años, se podrán firmar en dólares y pactar los ajustes",
+  "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/javier-milei-derogo-la-ley-de-alquileres-los-contratos-seran-de-dos-anos-podran-firmar-en-dolares-nid20122023/",
+  "summary": "El presidente anunció en cadena nacional que derogará la ley de alquileres por DNU y que los contratos podrán hacerse en moneda extranjera",
+  "published": "Thu, 21 Dec 2023 01:17:13 +0000",
+  "tags": [
+    {
+      "term": "Casas y Departamentos",
+      "scheme": null,
+      "label": null
+    }
+  ],
+  "credit": ""
 }
