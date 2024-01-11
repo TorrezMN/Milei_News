@@ -13,4 +13,34 @@
     }
   ],
   "credit": "Instagram: emiliamernes"
+}{
+  "news_paper": "LaNacion",
+  "section": "Títulosed.impresa",
+  "title": "El presidente Milei atacó por redes a la periodista Silvia Mercado y la acusó de “mentirosa serial” por una información sobre sus perros",
+  "link": "https://www.lanacion.com.ar/politica/el-presidente-milei-ataco-por-redes-a-la-periodista-silvia-mercado-y-la-acuso-de-mentirosa-serial-nid09012024/",
+  "summary": "Se enojó por un informe en LN+ respecto de la mudanza a Olivos; el vocero Adorni dijo que se puso en riesgo su trabajo y la periodista reafirmó su información y sus fuentes",
+  "published": "Tue, 09 Jan 2024 15:00:10 +0000",
+  "tags": [
+    {
+      "term": "Política",
+      "scheme": null,
+      "label": null
+    }
+  ],
+  "credit": ""
+}{
+  "news_paper": "LaNacion",
+  "section": "Títulosed.impresa",
+  "title": "Entidades periodísticas desaprobaron la actitud de Milei luego del ataque a una periodista",
+  "link": "https://www.lanacion.com.ar/politica/entidades-periodisticas-desaprobaron-la-actitud-de-milei-luego-del-ataque-a-una-periodista-nid09012024/",
+  "summary": "Tras la desmentida a través de X, Fopea, ADEPA y la Academia Nacional de Periodismo manifestaron su sorpresa y preocupación por la reacción del presidente; la deriva entre Manuel Adorni y Gabriela Cerruti",
+  "published": "Tue, 09 Jan 2024 22:51:28 +0000",
+  "tags": [
+    {
+      "term": "Política",
+      "scheme": null,
+      "label": null
+    }
+  ],
+  "credit": ""
 }

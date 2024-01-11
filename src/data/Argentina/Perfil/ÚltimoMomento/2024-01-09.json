@@ -18,4 +18,54 @@
     }
   ],
   "credit": ""
+}{
+  "news_paper": "Perfil",
+  "section": "ÚltimoMomento",
+  "title": "Manuel Adorni cuestionó a una periodista por un dato sobre la mudanza de Milei: \"Se puso en riesgo mi trabajo\"",
+  "link": "https://www.perfil.com/noticias/politica/adorni-cuestiono-a-una-periodista-por-un-dato-sobre-la-mudanza-de-milei-se-puso-en-riesgo-mi-trabajo.phtml",
+  "summary": "<p><img alt=\"Manuel Adorni y Silvia Mercado\" src=\"https://fotos.perfil.com/2024/01/09/trim/540/304/manuel-adorni-y-silvia-mercado-1734224.jpg\" /></p>El vocero presidencial cuestionó a la periodista Silvia Mercado, que había confirmado que los perros del presidente ya estaban en Olivos. Milei redobló la apuesta y la trató de mentirosa. <a href=\"https://www.perfil.com/noticias/politica/adorni-cuestiono-a-una-periodista-por-un-dato-sobre-la-mudanza-de-milei-se-puso-en-riesgo-mi-trabajo.phtml\">Leer más</a>",
+  "published": "Tue, 09 Jan 2024 14:31:57 GMT",
+  "tags": [
+    {
+      "term": "Manuel Adorni",
+      "scheme": "https://www.perfil.com/tags/manuel-adorni",
+      "label": null
+    },
+    {
+      "term": "Silvia Mercado",
+      "scheme": "https://www.perfil.com/tags/silvia-mercado",
+      "label": null
+    },
+    {
+      "term": "Javier Milei",
+      "scheme": "https://www.perfil.com/tags/javier-milei",
+      "label": null
+    }
+  ],
+  "credit": ""
+}{
+  "news_paper": "Perfil",
+  "section": "ÚltimoMomento",
+  "title": "Prepagas: el DNU de Milei eliminó el trámite para pagar menos cuota",
+  "link": "https://www.perfil.com/noticias/economia/prepagas-el-dnu-de-milei-elimino-el-tramite-para-pagar-menos-cuota.phtml",
+  "summary": "<p><img alt=\"Prepagas\" src=\"https://fotos.perfil.com/2024/01/03/trim/540/304/prepagas-1730863.jpg\" /></p>El mega decreto de necesidad y urgencia rubricado por el presidente suprime la posibilidad de emitir una declaración jurada para limitar el aumento mensual de las cuotas de las prestadoras de salud. De cuánto serán las actualizaciones en febrero. <a href=\"https://www.perfil.com/noticias/economia/prepagas-el-dnu-de-milei-elimino-el-tramite-para-pagar-menos-cuota.phtml\">Leer más</a>",
+  "published": "Tue, 09 Jan 2024 21:10:53 GMT",
+  "tags": [
+    {
+      "term": "Prepagas",
+      "scheme": "https://www.perfil.com/tags/prepagas",
+      "label": null
+    },
+    {
+      "term": "DNU",
+      "scheme": "https://www.perfil.com/tags/dnu",
+      "label": null
+    },
+    {
+      "term": "Javier Milei",
+      "scheme": "https://www.perfil.com/tags/javier-milei",
+      "label": null
+    }
+  ],
+  "credit": ""
 }
