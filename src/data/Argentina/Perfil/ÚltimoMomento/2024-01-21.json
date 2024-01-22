@@ -28,4 +28,24 @@
     }
   ],
   "credit": ""
+}{
+  "news_paper": "Perfil",
+  "section": "ÚltimoMomento",
+  "title": "El presidente Milei propone un cambio que da que pensar",
+  "link": "https://www.perfil.com/noticias/columnistas/el-presidente-milei-propone-un-cambio-que-da-que-pensar.phtml",
+  "summary": "<p><img alt=\"Javier Milei en Davos 20240117\" src=\"https://fotos.perfil.com/2024/01/17/trim/540/304/javier-milei-en-davos-20240117-1739566.jpg\" /></p>  <a href=\"https://www.perfil.com/noticias/columnistas/el-presidente-milei-propone-un-cambio-que-da-que-pensar.phtml\">Leer más</a>",
+  "published": "Sun, 21 Jan 2024 14:41:19 GMT",
+  "tags": [
+    {
+      "term": "Javier Milei",
+      "scheme": "https://www.perfil.com/tags/javier-milei",
+      "label": null
+    },
+    {
+      "term": "Sandra Choroszczcucha",
+      "scheme": "https://www.perfil.com/tags/sandra-choroszczcucha",
+      "label": null
+    }
+  ],
+  "credit": ""
 }
