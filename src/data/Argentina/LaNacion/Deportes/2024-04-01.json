@@ -13,6 +13,7 @@
     }
   ],
   "credit": "Agustin Marcarian"
+<<<<<<< HEAD
 }{
   "news_paper": "LaNacion",
   "section": "Deportes",
@@ -73,4 +74,6 @@
     }
   ],
   "credit": "Agustin Marcarian"
+=======
+>>>>>>> 5cc773970708c66820b602dfa0a7e5c2cbcaa4df
 }

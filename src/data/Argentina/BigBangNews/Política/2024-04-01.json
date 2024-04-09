@@ -13,6 +13,7 @@
     }
   ],
   "credit": ""
+<<<<<<< HEAD
 }{
   "news_paper": "BigBangNews",
   "section": "Política",
@@ -28,4 +29,6 @@
     }
   ],
   "credit": ""
+=======
+>>>>>>> 5cc773970708c66820b602dfa0a7e5c2cbcaa4df
 }
