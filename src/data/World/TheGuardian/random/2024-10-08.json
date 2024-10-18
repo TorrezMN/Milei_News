@@ -1,0 +1,61 @@
+{
+  "news_paper": "TheGuardian",
+  "section": "random",
+  "title": "Argentina’s Javier Milei accused of plagiarising UN speech from West Wing",
+  "link": "https://www.theguardian.com/world/2024/oct/04/argentina-javier-milei-accused-plagiarising-un-speech-west-wing",
+  "summary": "<p>Populist leader alleged to have ‘copied word for word’ a monologue by TV show’s fictional president Jed Bartlet</p><p>Argentina’s rightwing populist president, Javier Milei, has been accused of plagiarising a chunk of his recent speech to the United Nations general assembly from the political drama The West Wing.</p><p>“It seems like fiction, but it isn’t,” the left-leaning Buenos Aires newspaper Página 12 <a href=\"https://www.pagina12.com.ar/772291-parece-ficcion-pero-no-lo-es-milei-plagio-su-discurso-en-la-\">reported</a> on Friday, claiming Milei had “copied, word for word, a monologue” by the television show’s fictional president, Josiah “Jed” Bartlet.</p> <a href=\"https://www.theguardian.com/world/2024/oct/04/argentina-javier-milei-accused-plagiarising-un-speech-west-wing\">Continue reading...</a>",
+  "published": "Fri, 04 Oct 2024 14:04:56 GMT",
+  "tags": [
+    {
+      "term": "Argentina",
+      "scheme": "https://www.theguardian.com/world/argentina",
+      "label": null
+    },
+    {
+      "term": "Javier Milei",
+      "scheme": "https://www.theguardian.com/world/javier-milei",
+      "label": null
+    },
+    {
+      "term": "Americas",
+      "scheme": "https://www.theguardian.com/world/americas",
+      "label": null
+    },
+    {
+      "term": "World news",
+      "scheme": "https://www.theguardian.com/world/world",
+      "label": null
+    },
+    {
+      "term": "The West Wing",
+      "scheme": "https://www.theguardian.com/tv-and-radio/the-west-wing",
+      "label": null
+    },
+    {
+      "term": "US television",
+      "scheme": "https://www.theguardian.com/tv-and-radio/us-television",
+      "label": null
+    },
+    {
+      "term": "Drama",
+      "scheme": "https://www.theguardian.com/tv-and-radio/drama",
+      "label": null
+    },
+    {
+      "term": "Television & radio",
+      "scheme": "https://www.theguardian.com/tv-and-radio/tv-and-radio",
+      "label": null
+    },
+    {
+      "term": "Television",
+      "scheme": "https://www.theguardian.com/culture/television",
+      "label": null
+    },
+    {
+      "term": "Culture",
+      "scheme": "https://www.theguardian.com/culture/culture",
+      "label": null
+    }
+  ],
+  "credit": "Composite: Getty, HBO"
+}

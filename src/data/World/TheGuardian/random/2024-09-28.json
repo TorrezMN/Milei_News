@@ -1,0 +1,41 @@
+{
+  "news_paper": "TheGuardian",
+  "section": "random",
+  "title": "Poverty in Argentina soars to over 50% as Milei’s austerity measures hit hard",
+  "link": "https://www.theguardian.com/world/2024/sep/27/poverty-rate-argentina-milei",
+  "summary": "<p>Far-right president has been battling inflation by imposing steep cuts in spending, resulting in widespread poverty</p><p>Argentina’s poverty rate has soared <a href=\"https://www.reuters.com/world/americas/mileis-austerity-seen-pushing-half-argentina-into-poverty-2024-09-26/\">to almost 53%</a> in the first six months of <a href=\"https://www.theguardian.com/world/javier-milei\">Javier Milei</a>’s presidency, offering the first hard evidence of how the far-right libertarian’s tough austerity measures are hitting the population.</p><p>The new poverty rate, reported by the government’s statistics agency on Thursday, is the highest level for two decades, when the country reeled from a catastrophic economic crisis, and means <a href=\"https://www.ft.com/content/ccaeb4f5-6818-4aec-8112-cbf3639ad557\">3.4 million Argentinians</a> have been pushed into poverty this year.</p> <a href=\"https://www.theguardian.com/world/2024/sep/27/poverty-rate-argentina-milei\">Continue reading...</a>",
+  "published": "Fri, 27 Sep 2024 18:36:20 GMT",
+  "tags": [
+    {
+      "term": "Argentina",
+      "scheme": "https://www.theguardian.com/world/argentina",
+      "label": null
+    },
+    {
+      "term": "Poverty",
+      "scheme": "https://www.theguardian.com/society/poverty",
+      "label": null
+    },
+    {
+      "term": "Javier Milei",
+      "scheme": "https://www.theguardian.com/world/javier-milei",
+      "label": null
+    },
+    {
+      "term": "Inflation",
+      "scheme": "https://www.theguardian.com/business/inflation",
+      "label": null
+    },
+    {
+      "term": "Americas",
+      "scheme": "https://www.theguardian.com/world/americas",
+      "label": null
+    },
+    {
+      "term": "World news",
+      "scheme": "https://www.theguardian.com/world/world",
+      "label": null
+    }
+  ],
+  "credit": "Photograph: Luis Robayo/AFP/Getty Images"
+}
