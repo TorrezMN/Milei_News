@@ -1,0 +1,61 @@
+{
+  "news_paper": "TheNewYorkTimes",
+  "section": "Americas",
+  "title": "Argentina Drove Down Teen Pregnancy. Then Came Javier Milei.",
+  "link": "https://www.nytimes.com/2024/11/08/world/americas/argentina-javier-milei-abortion-access.html",
+  "summary": "Argentina has been known as one of Latin America’s most socially progressive countries. But President Javier Milei’s austerity measures have cut programs aimed at helping women.",
+  "published": "Mon, 11 Nov 2024 21:21:00 +0000",
+  "tags": [
+    {
+      "term": "Argentina",
+      "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+      "label": null
+    },
+    {
+      "term": "Politics and Government",
+      "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+      "label": null
+    },
+    {
+      "term": "Economic Conditions and Trends",
+      "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+      "label": null
+    },
+    {
+      "term": "Budgets and Budgeting",
+      "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+      "label": null
+    },
+    {
+      "term": "Milei, Javier",
+      "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+      "label": null
+    },
+    {
+      "term": "Teenage Pregnancy",
+      "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+      "label": null
+    },
+    {
+      "term": "Sex Education",
+      "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+      "label": null
+    },
+    {
+      "term": "Women and Girls",
+      "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+      "label": null
+    },
+    {
+      "term": "Birth Control and Family Planning",
+      "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+      "label": null
+    },
+    {
+      "term": "Layoffs and Job Reductions",
+      "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+      "label": null
+    }
+  ],
+  "credit": ""
+}
