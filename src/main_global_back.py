@@ -1,5 +1,4 @@
 import feedparser
-import requests
 from helpers.global_rss import global_feeds
 from helpers.tools import pprint_data, get_file_tree, append_data, wait_random_time
 import json
@@ -23,31 +22,21 @@ def build_row(name, section, entry):
             print("------------------------------------ | Adding one.")
     except UnicodeEncodeError as e:
         print(f"Encoding error: {e}")
+        pass
     except FileNotFoundError as e:
         print(f"File not found: {e}")
+        pass
 
 
-def parse_url(name, section, url, timeout=10):
+def parse_url(name, section, url):
     print("=" * 55)
     print(f"SECTION: {section}")
     print(f"NAME: {name}")
     print("=" * 55)
-
-    try:
-        # Fetch the feed with a timeout
-        response = requests.get(url, timeout=timeout)
-        response.raise_for_status()  # Raise HTTPError for bad responses
-        NewsFeed = feedparser.parse(response.content)
-    except requests.exceptions.Timeout:
-        print(f"Timeout reached for URL: {url}. Skipping...")
-        return
-    except requests.exceptions.RequestException as e:
-        print(f"Error fetching URL: {url} | Error: {e}")
-        return
-
+    NewsFeed = feedparser.parse(url)
     entries = []
     for entry in NewsFeed.entries:
-        if "Milei" in entry.get("title", ""):
+        if "Milei" in entry["title"]:
             entries.append(entry)
             break
 
@@ -74,4 +63,3 @@ if __name__ == "__main__":
             for diario in diarios:
                 url = global_feeds[zona][diario]
                 parse_url(diario, "random", url)
-
